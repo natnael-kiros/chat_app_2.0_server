@@ -1,7 +1,7 @@
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
-This is the **server-side** component of the chat application, built using **Dart**. It handles requests, authentication, real-time messaging, and stores messages using SQLite. The server works in conjunction with the Flutter-based client-side app, which you can find [here](https://github.com/natnael-kiros/chat-app-2.0).
+This is the **server-side** component of the chat application, built using **Dart**. It handles requests, authentication, real-time messaging, and stores messages using SQLite. The server works in conjunction with the Flutter-based client-side app, which you can find [here]([https://github.com/natnael-kiros/chat-app-2.0]).
 
 ## Features
 
