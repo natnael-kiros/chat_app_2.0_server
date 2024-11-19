@@ -7,6 +7,8 @@ This is the **server-side** component of the chat application, built using **Dar
 - **Message Storage:** Messages are stored in an SQLite database with timestamps.
 - **Broadcast Messages:** Enables one-way communication for updates.
 - **Group Chats:** Manages group creation and messaging.
+- **File & Image Sharing:** Real time file and image sharing.
+- **Audio record & transfer:** Enables real-time audio sharing between users.
 
 ### Steps
 
